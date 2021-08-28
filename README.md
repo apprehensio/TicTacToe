@@ -1,2 +1,2 @@
 # TicTacToe
-A Python Program
+A Python Program to simulate a Tic-Tac-Toe game
